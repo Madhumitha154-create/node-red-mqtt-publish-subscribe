@@ -123,4 +123,9 @@ The repository includes screenshots of:
 \* Live dashboard visualization
 
 
+The video link is 
+https://drive.google.com/file/d/1Om4uTx_M-rHcGGpTyXUvcbq-HOrdyH12/view?usp=drive_link
+
+
+
 
